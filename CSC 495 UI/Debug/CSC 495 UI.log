@@ -1,0 +1,5 @@
+﻿  MyUI.cpp
+c:\users\mide_\source\repos\csc 495 ui\csc 495 ui\myui.h(393): warning C4129: 'm': unrecognized character escape sequence
+c:\users\mide_\source\repos\csc 495 ui\csc 495 ui\myui.cpp(8): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  MyUI.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+LINK : fatal error LNK1561: entry point must be defined

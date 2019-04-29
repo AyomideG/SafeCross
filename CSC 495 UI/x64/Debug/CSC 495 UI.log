@@ -1,0 +1,32 @@
+﻿  MyUI.cpp
+c:\users\mide_\documents\opencv\build\include\opencv2\flann\result_set.h(306): warning C4003: not enough arguments for function-like macro invocation 'max'
+c:\users\mide_\documents\opencv\build\include\opencv2\flann\result_set.h(428): warning C4003: not enough arguments for function-like macro invocation 'max'
+c:\users\mide_\documents\opencv\build\include\opencv2\flann\lsh_index.h(203): warning C4003: not enough arguments for function-like macro invocation 'max'
+c:\users\mide_\documents\opencv\build\include\opencv2\flann\lsh_index.h(269): warning C4003: not enough arguments for function-like macro invocation 'max'
+c:\users\mide_\source\repos\csc 495 ui\csc 495 ui\myui.h(485): warning C4129: 'm': unrecognized character escape sequence
+c:\users\mide_\source\repos\csc 495 ui\csc 495 ui\myui.h(522): warning C4101: 'e': unreferenced local variable
+c:\users\mide_\source\repos\csc 495 ui\csc 495 ui\myui.h(543): warning C4101: 'e': unreferenced local variable
+c:\users\mide_\source\repos\csc 495 ui\csc 495 ui\myui.h(926): warning C4244: 'initializing': conversion from 'int64' to 'int', possible loss of data
+c:\users\mide_\source\repos\csc 495 ui\csc 495 ui\myui.h(927): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\mide_\source\repos\csc 495 ui\csc 495 ui\myui.h(931): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\mide_\source\repos\csc 495 ui\csc 495 ui\myui.h(975): warning C4244: 'initializing': conversion from 'int64' to 'int', possible loss of data
+c:\users\mide_\source\repos\csc 495 ui\csc 495 ui\myui.h(976): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\mide_\source\repos\csc 495 ui\csc 495 ui\myui.h(980): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\mide_\source\repos\csc 495 ui\csc 495 ui\myui.h(984): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\mide_\source\repos\csc 495 ui\csc 495 ui\myui.h(1080): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\mide_\source\repos\csc 495 ui\csc 495 ui\myui.h(1081): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\mide_\source\repos\csc 495 ui\csc 495 ui\myui.cpp(9): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+c:\users\mide_\documents\opencv\build\include\opencv2\core\cuda.inl.hpp(105): warning C4793: 'cv::cuda::GpuMat::GpuMat': function compiled as native:
+  	Found an intrinsic not supported in managed code
+c:\users\mide_\documents\opencv\build\include\opencv2\core\cuda.inl.hpp(395): warning C4793: 'cv::cuda::HostMem::HostMem': function compiled as native:
+  	Found an intrinsic not supported in managed code
+c:\users\mide_\documents\opencv\build\include\opencv2\core\mat.inl.hpp(530): warning C4793: 'cv::Mat::Mat': function compiled as native:
+  	Found an intrinsic not supported in managed code
+c:\users\mide_\documents\opencv\build\include\opencv2\core\mat.inl.hpp(850): warning C4793: 'cv::Mat::release': function compiled as native:
+  	Found an intrinsic not supported in managed code
+c:\users\mide_\documents\opencv\build\include\opencv2\core\mat.inl.hpp(2171): warning C4793: 'cv::SparseMat::addref': function compiled as native:
+  	Found an intrinsic not supported in managed code
+c:\users\mide_\documents\opencv\build\include\opencv2\core\mat.inl.hpp(3771): warning C4793: 'cv::UMat::addref': function compiled as native:
+  	Found an intrinsic not supported in managed code
+  Blob.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  CSC 495 UI.vcxproj -> C:\Users\mide_\source\repos\CSC 495 UI\x64\Debug\CSC 495 UI.exe
